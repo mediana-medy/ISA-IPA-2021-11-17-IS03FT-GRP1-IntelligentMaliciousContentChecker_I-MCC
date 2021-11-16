@@ -1,0 +1,4 @@
+Flask==2.0.2
+google-api-core==2.0.1
+google-auth==2.0.2
+google-cloud-vision==2.4.2

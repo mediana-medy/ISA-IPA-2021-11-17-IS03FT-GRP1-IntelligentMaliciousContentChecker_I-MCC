@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPA</title>
+</head>
+
+<body>
+<h2>URL</h2>
+<form action="/url" method="POST">
+  <div>
+    <label for="say">URL: </label>
+    <input name="say" id="say">
+  </div>
+  <div>
+    <button>Submit URL</button>
+  </div><br><br>
+</form>
+
+
+<h2>Upload Images</h2>
+<form method="post" action="/images" enctype="multipart/form-data">
+  <div>
+    <label for="file">Choose a zipped file</label><br>
+    <input type="file" id="file" name="file">
+  </div>
+  <div>
+    <button>Send the file</button>
+  </div><br><br>
+</form>
+
+<h2>Upload Zipped Binary Files</h2>
+<form method="post" action="/zipfile" enctype="multipart/form-data">
+  <div>
+    <label for="file">Choose a zipped file encrypted with password "malware"</label><br>
+    <input type="file" id="file" name="file">
+  </div>
+  <div>
+    <button>Send the file</button>
+  </div>
+</form>
+
+</body>
