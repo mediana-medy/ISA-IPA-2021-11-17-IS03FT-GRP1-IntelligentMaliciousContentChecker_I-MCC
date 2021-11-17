@@ -19,7 +19,7 @@
 | :------------ |:---------------:| :-----| :-----|
 | Mediana | A0231458E |  | mediana@u.nus.edu |
 | Meng Chenxi | A0231546J |  | @u.nus.edu |
-| Sarah Elita Shi Yuan Wong| A0231507N | | @u.nus.edu |
+| Sarah Elita Shi Yuan Wong| A0231507N | RPA Web checking for URL and file hash | e0703539@u.nus.edu |
 | Zhou Xinyi | A0231538H | Image content detection by Google Cloud APIs | e0703570@u.nus.edu |
 
 ---
