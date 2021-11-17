@@ -1,6 +1,7 @@
-# ISA-IPA-2021-11-17-IS0XFT-GRP1-
+# ISA-IPA-2021-11-17-IS03FT-GRP1-Intelligent Malicious Content Checker (I-MCC) for URL, Images and Files
+
 ## SECTION 1 : PROJECT TITLE
-## Intelligent Images, URL, Files Checker
+## Intelligent Malicious Content Checker (I-MCC) for URL, Images and Files
 
 <div align=center>
 <img src="Miscellaneous/logo.png"
@@ -17,7 +18,7 @@
 
 | Official Full Name  | Student ID   | Contributions | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
-| Mediana | A0231458E |  | mediana@u.nus.edu |
+| Mediana | A0231458E | Static Malware Analysis Process Automation, FrontEnd and BackEnd Development | mediana@u.nus.edu |
 | Meng Chenxi | A0231546J |  | @u.nus.edu |
 | Sarah Elita Shi Yuan Wong| A0231507N | | @u.nus.edu |
 | Zhou Xinyi | A0231538H | Image content detection by Google Cloud APIs | e0703570@u.nus.edu |

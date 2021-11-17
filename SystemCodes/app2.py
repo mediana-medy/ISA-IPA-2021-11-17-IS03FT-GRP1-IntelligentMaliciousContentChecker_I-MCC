@@ -9,7 +9,7 @@ app = Flask(__name__)
 
 DOWNLOAD_FOLDER = "download_folder/"
 UPLOAD_FOLDER = "upload_folder/"
-UIPATH_FOLDER = "C:/Users/User/PycharmProjects/ISA-IPA-2021-11-17-IS0XFT-GRP1-/SystemCodes/UIPath/StaticAnalysis/"
+UIPATH_FOLDER = "C:/Users/User/PycharmProjects/ISA-IPA-2021-11-17-IS03FT-GRP1-IntelligentMaliciousContentChecker_I-MCC/SystemCodes/UIPath/StaticAnalysis/"
 BINARY_ANALYSIS_FOLDER = UIPATH_FOLDER + "malware_beware/"
 URL_VT_RESULT = UIPATH_FOLDER + "virustotal_result/"
 BINARY_RESULT =UIPATH_FOLDER + "resultfile/"
