@@ -31,18 +31,11 @@
 ## SECTION 5 : USER GUIDE
 
 
-Refer to User Guide at Github Folder: [UserGuide](https://github.com/)
+Refer to User Guide at Github Folder: [UserGuide](https://github.com/mediana-medy/ISA-IPA-2021-11-17-IS03FT-GRP1-IntelligentMaliciousContentChecker_I-MCC/tree/master/UserGuide)
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-Refer to project report at Github Folder: [ProjectReport](https://github.com/)
-
-
-**Sections for Project Report / Paper:**
-- Executive Summary
-- System Architecture
-- System Development
-- Conclusion(Challenge and Overcome)
+Refer to project report at Github Folder: [ProjectReport](https://github.com/mediana-medy/ISA-IPA-2021-11-17-IS03FT-GRP1-IntelligentMaliciousContentChecker_I-MCC/tree/master/ProjectReport)
 
 ---
