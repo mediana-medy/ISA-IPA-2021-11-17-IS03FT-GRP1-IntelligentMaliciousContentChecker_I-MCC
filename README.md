@@ -15,10 +15,10 @@ According to the AV-TEST Institute, there are currently over a billion malware p
 ---
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
-| Official Full Name  | Student ID   | Contributions | Email (Optional) |
+| Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
 | Mediana | A0231458E | Static Malware Analysis Process Automation, FrontEnd and BackEnd Development | mediana@u.nus.edu |
-| Meng Chenxi | A0231546J |  | @u.nus.edu |
+| Meng Chenxi | A0231546J |  | e0703578@u.nus.edu |
 | Sarah Elita Shi Yuan Wong| A0231507N | RPA Web checking for URL and file hash | e0703539@u.nus.edu |
 | Zhou Xinyi | A0231538H | Image content detection by Google Cloud APIs | e0703570@u.nus.edu |
 
