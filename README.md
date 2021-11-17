@@ -20,7 +20,7 @@
 | Mediana | A0231458E |  | mediana@u.nus.edu |
 | Meng Chenxi | A0231546J |  | @u.nus.edu |
 | Sarah Elita Shi Yuan Wong| A0231507N | | @u.nus.edu |
-| Zhou Xinyi |  | | @u.nus.edu |
+| Zhou Xinyi | A0231538H | Image content detection by Google Cloud APIs | e0703570@u.nus.edu |
 
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
