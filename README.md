@@ -1,5 +1,3 @@
-# ISA-PM-IPA-2021-11-17-IS03FT-GRP-Intelligent Malicious Content Checker (I-MCC) for URL, Images and Files
-
 ## SECTION 1 : PROJECT TITLE
 ## Intelligent Malicious Content Checker (I-MCC) for URL, Images and Files
 
