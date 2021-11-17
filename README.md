@@ -12,6 +12,7 @@
 ---
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 
+According to the AV-TEST Institute, there are currently over a billion malware programs online and millions of new malware programs are being created each month. Malware is often spread through email attachments, file downloads, or by getting users to click on malicious website links. Furthermore, all kinds of content exist on the internet, and we might unintentionally come across explicit or inappropriate content. Therefore, it is important to always be cautious about what we download and open on the internet. To help keep users safe on the internet, we have developed an automated content checking system using RPA and IPA. The system employs RPA to perform static analysis for zipped files and to check the safety of website links, and IPA to check for the presence of any inappropriate images in a folder. As an MVP, it is currently implemented as a web-application, where users can provide a zipped file or URL that they want to check, and the results of the check will be sent back to the user via email.
 
 ---
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
