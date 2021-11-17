@@ -26,8 +26,8 @@ According to the AV-TEST Institute, there are currently over a billion malware p
 
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
-[![Watch the video](https://github.com/mediana-medy/ISA-IPA-2021-11-17-IS0XFT-GRP1-/tree/master/Miscellaneous/videocover.png)](https://github.com/mediana-medy/ISA-IPA-2021-11-17-IS03FT-GRP1-IntelligentMaliciousContentChecker_I-MCC/blob/master/Video/ISA-IPA-2021-11-17-IS03FT-GRP1_IMCC-BusinessVideoPresentation.mp4)
 
+[![BusinessVideoPresentation](https://github.com/mediana-medy/ISA-IPA-2021-11-17-IS0XFT-GRP1-/tree/master/Miscellaneous/videocover.png)](https://drive.google.com/file/d/1ZB3m_oCjkcFrY4dY9SkikEFGesAC6igD/view?usp=sharing)
 ---
 ## SECTION 5 : USER GUIDE
 
